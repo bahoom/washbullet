@@ -25,6 +25,6 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'vcr', '~> 3.0.0'
   gem.add_development_dependency 'webmock'
 
-  gem.add_dependency 'faraday', '~> 0.9.0'
+  gem.add_dependency 'faraday'
   gem.add_dependency 'mime-types'
 end
